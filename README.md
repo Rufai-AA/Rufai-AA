@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 
+I'm a data analyst.
 
 - 🔭 I’m currently working on myself, my portfolio and every other thing surrounding...
 - 🌱 I’m currently learning powerbi and still learning further on basic data analytics tools.
