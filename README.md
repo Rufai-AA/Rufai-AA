@@ -69,7 +69,7 @@ See dashboard [here](https://public.tableau.com/views/InternationalBreweriesAnal
 
 ## 💬 If you have any suggestions,questions or feedback, please do not hesitate to reach out to me!
 - 📫 How to reach me: 
-either via [mail](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJqSwKSJmKHmHkNgMKSNkbFRKZMhHNpmBTZXvnKMVWkkjLzkkCPWPrlMzxJHrrBLNHzvWJB) , [whatsapp](https://api.whatsapp.com/send/?phone=%2B2348134450043&text&type=phone_number&app_absent=0) or [LinkedIn](https://www.linkedin.com/in/ayomide-rufai-ba5354223) 
+either via [mail](mailto:rhayzhed@gmail.com) , [whatsapp](https://api.whatsapp.com/send/?phone=%2B2348134450043&text&type=phone_number&app_absent=0) or [LinkedIn](https://www.linkedin.com/in/ayomide-rufai-ba5354223) 
 
 - 😄 Pronouns: he/him/his/
 #### ⚡ Fun fact: I just transited into Tech. What I studied doesn't have to do with DA 😜
