@@ -6,7 +6,7 @@ Hello there, I'm <a href="https://www.linkedin.com/in/ayomide-rufai-ba5354223/" 
 </h3>
 
 <h2 align="center">
-I'm a Data Analyst 💻 and ## I'm #OpenToWork
+I'm a Data Analyst 💻 and I'm #OpenToWork
 </h2> 
 
 I just transitioned into Tech and I have been learning  so far. I recently completed the [Google data analytics professional certficate program by Coursera](https://www.coursera.org/professional-certificates/google-data-analytics)
