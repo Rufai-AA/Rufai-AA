@@ -2,7 +2,8 @@
 
 
 <h3 align="center">
-Hello there, I'm <a href="https://www.linkedin.com/in/ayomide-rufai-ba5354223/" target="_blank" rel="noreferrer">Ayomide</a> 👋
+  
+Hello there, I'm <a href="https://www.linkedin.com/in/ayomide-rufai-ba5354223/" target="_blank" rel="noreferrer">Ayomide</a> 👋 
 </h3>
 
 <h2 align="center">
@@ -34,9 +35,9 @@ I just transitioned into Tech and I have been learning  so far. I recently compl
 - My Tableau skill
 - Getting much more conversant and proficient with my data analytics tools
 
-## 🌱 I'm currently learning
 
-- PowerBI
+- ## 🌱 I'm currently learning
+
 - Python
   
 
@@ -54,8 +55,10 @@ I just transitioned into Tech and I have been learning  so far. I recently compl
 
 
 ## 📝 My First Interactive Dashboard
-This is the first interactive dashboard I made during practices. I have improved and will be publishing most of them soon.
+This is the first interactive dashboard I made during practices via TABLEAU. I have improved and will be publishing most of them soon.
 See dashboard [here](https://public.tableau.com/views/InternationalBreweriesAnalysis2017-2019interactivedashboard/Intro?:language=en-US&:display_count=n&:origin=viz_share_link) 😜😜
+
+For PowerBI => See first dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiYjM4ZDM5ZGMtZTQ5ZS00NDAwLThlZTktODQ1MTE5ZDBhMzNlIiwidCI6ImUyMzA2NmNkLTRjZDItNGVjNC1hZjEyLWIwZDg4NzJjYzUxMCJ9&pageName=ReportSection40fbd668b65aa501bd57)
 
 
 ## 📈 GitHub Stats 
