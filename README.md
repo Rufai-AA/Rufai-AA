@@ -22,16 +22,13 @@ I just transitioned into Tech and I have been learning  so far. I recently compl
 
 </br>
 
-
-- 👯 I’m looking to collaborate on real life datasets/ open source projects
-- 🤔 I’m looking for help with internship or full time employment for the role of a junior data analyst 
+- 🤔 I’m looking for help with full/part time employment for the role of a junior or entry level data analyst 
 
 
-## 🔭 I'm currently working on
+## 🔭 I'm currently exploring and working on
 
 - My old projects
-- Google/Coursera's case studies
-- Mavin Data Analytics Pizza Challenge (Working on it soon...)
+- Mavin Data Analytics Challenges (Working on it soon...)
 - My Tableau skill
 - Getting much more conversant and proficient with my data analytics tools
 
