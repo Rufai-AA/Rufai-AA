@@ -3,14 +3,14 @@
 
 <h3 align="center">
   
-Hello there, I'm <a href="https://www.linkedin.com/in/ayomide-rufai-ba5354223/" target="_blank" rel="noreferrer">Ayomide</a> 👋 
+Hello there, I'm <a href="https://rufai-aa.github.io" target="_blank" rel="noreferrer">Ayomide</a> 👋 
 </h3>
 
 <h2 align="center">
 I'm a Data Analyst 💻 and I'm #OpenToWork
 </h2> 
 
-I just transitioned into Tech and I have been learning  so far. I recently completed the [Google data analytics professional certficate program by Coursera](https://www.coursera.org/professional-certificates/google-data-analytics)
+I like to MAKE DATA SHINE
 
 ### 🤝 Connect with me:
 
@@ -21,6 +21,9 @@ I just transitioned into Tech and I have been learning  so far. I recently compl
 </h3>
 
 </br>
+
+- I recently completed the ["HR analytics" project](https://medium.com/@AArufai/hr-analytics-b936553d5725)
+
 
 - 🤔 I’m looking for help with full/part time employment for the role of a junior or entry level data analyst 
 
